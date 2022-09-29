@@ -1,0 +1,15 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "Playwright test example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.26.0",
+    "prettier": "^2.7.1"
+  }
+}
